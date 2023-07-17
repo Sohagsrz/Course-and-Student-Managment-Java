@@ -319,12 +319,7 @@ public class Main{
 
 		showOptionsForCourseManage();
 
-
-
-
-	// System.out.println(coursesSize);
-	Courses course = new Courses();
-	Students student = new Students();
+ 
 	}
 
 }
